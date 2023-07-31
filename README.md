@@ -1,16 +1,15 @@
-### Hi there 👋
+### Firmeza total 🤙🇧🇷
 
-<!--
-**reeberth/Reeberth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **_Kawan Reeberth_**
 
-Here are some ideas to get you started:
+Estou estudando na ![Alura](https://alura.com.br)
+Estou desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo 📧:
+
+kawan.reeberth.oliveira@escola.pr.gov.br
+
+@reeberth
+
+![](https://media.tenor.com/z5Fwkc8r6lcAAAAd/bruno-henrique.gif)
