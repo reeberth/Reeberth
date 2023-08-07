@@ -12,4 +12,4 @@ kawan.reeberth.oliveira@escola.pr.gov.br
 
 @reeberth
 
-![asdf](https://tenor.com/pt-BR/view/bruno-henrique-gif-21374864)
+![](https://tenor.com/bBQJ2.gif)
