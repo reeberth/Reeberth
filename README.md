@@ -12,4 +12,4 @@ kawan.reeberth.oliveira@escola.pr.gov.br
 
 @reeberth
 
-![](https://media.tenor.com/z5Fwkc8r6lcAAAPo/bruno-henrique.mp4)
+![](https://media.tenor.com/ByFHQDYTQ2oAAAAM/sadas.gif)
